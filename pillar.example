@@ -1,0 +1,8 @@
+simple-distribution:
+  distributions:
+    site-de:
+      targets:
+        - phpapp-1-prod.site.net
+    site-nl:
+      targets:
+        - phpapp-2-prod.site.net
