@@ -1,0 +1,3 @@
+reactor:
+  - 'nl.keates/sdf/deploy/*':        # React to custom event tags
+    - salt://reactor/sdf-reactor.sls   # Put reactor files under file_roots
